@@ -10,6 +10,6 @@ public class bai1 {
         System.out.println("vui lòng nhập tên của bạn");
         String name= sc.nextLine();
         System.out.println("Hello "+name);
-        System.out.println("khanh viết thêm dòng này");
+        System.out.println("khanh viết thêm");
     }
 }
