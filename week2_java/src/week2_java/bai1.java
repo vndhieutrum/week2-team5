@@ -7,6 +7,6 @@ public class bai1 {
         String name= sc.nextLine();
         System.out.println("Hello "+name);
         System.out.println("khanh viết thêm nữa");
-        System.out.println("hiếu viết thêm dòng này");
+        System.out.println("hiếu viết thêm dòng  ");
     }
 }
