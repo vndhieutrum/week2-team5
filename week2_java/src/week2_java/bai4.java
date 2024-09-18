@@ -1,3 +1,4 @@
+package week2_java;
 import java.util.Scanner;
 
 public class bai4 {
@@ -16,5 +17,4 @@ public class bai4 {
         double tong = tien + lainthang ;
         System.out.println("Vay tong tien la:" + tong);
     }
-    
 }
